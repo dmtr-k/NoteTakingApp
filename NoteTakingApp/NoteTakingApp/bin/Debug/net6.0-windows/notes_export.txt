@@ -1,0 +1,16 @@
+Title: Belezhka
+Timestamp: 3/18/2024 1:46:15 PM
+Content: {\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil Segoe UI;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs18 This is my note\f1\par
+}
+
+
+Title: New note
+Timestamp: 3/26/2024 1:01:17 PM
+Content: {\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil Segoe UI;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs18 This is my note\f1\par
+}
+
+
